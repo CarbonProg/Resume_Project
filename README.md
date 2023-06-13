@@ -32,7 +32,7 @@
 ![mygif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVmYWQyZjE0ZGMwYjI3ZmI1ZWM4MDZhYmJiNjIwOTU2MjgxZDU2MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/5YzHSotrSG6A01KsrX/giphy.gif)
 
 ## Ссылка на сайт
-Ссылка на сайт также находится в описании проекта, для удобства добавил её и <a href="carbonprog.github.io/Resume_Project/">сюда</a>.
+carbonprog.github.io/Resume_Project/
 ## Контакты
 - VK : [Максим Назарь](https://vk.com/ravecarbon)
 - [Telegram](https://t.me/Carbon228)
